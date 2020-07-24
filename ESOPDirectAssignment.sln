@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESOPDirectAssignment", "ESOPDirectAssignment\ESOPDirectAssignment.csproj", "{5053CB3E-F92D-42D8-9F8B-97CAEF736E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESOPDirectAssignment.Tests", "ESOPDirectAssignment.Tests\ESOPDirectAssignment.Tests.csproj", "{609A7C5C-D738-4AF4-AA88-C02A53FBC9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5053CB3E-F92D-42D8-9F8B-97CAEF736E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5053CB3E-F92D-42D8-9F8B-97CAEF736E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5053CB3E-F92D-42D8-9F8B-97CAEF736E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5053CB3E-F92D-42D8-9F8B-97CAEF736E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609A7C5C-D738-4AF4-AA88-C02A53FBC9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609A7C5C-D738-4AF4-AA88-C02A53FBC9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609A7C5C-D738-4AF4-AA88-C02A53FBC9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609A7C5C-D738-4AF4-AA88-C02A53FBC9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80A1258-7175-4C45-967D-4EBA8DFD3D6E}
+	EndGlobalSection
+EndGlobal
